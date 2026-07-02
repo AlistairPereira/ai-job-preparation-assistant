@@ -40,14 +40,3 @@ An AI-powered job preparation assistant built step by step using Python, Ollama,
 - Pydantic
 - Pytest
 
-## Current Stage
-
-Project setup and basic LLM integration.
-
-## Setup
-
-Create and activate the virtual environment:
-
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
